@@ -2,6 +2,20 @@
 
 A curated list of awesome projects to simplify and improve paper scannning.
 
++ [Websites](#websites)
++ [Apps](#apps)
+  - [Desktop](#desktop)
+    * [Cross Platform](#cross-platform)
+    * [MacOS](#macos)
+  - [Mobile](#mobile)
+    * [iOS](#ios)
++ [Posts](#posts)
++ [Discussions](#discussions)
++ [Software Libraries](#software-libraries)
++ [Research](#research)
+  - [Ishikawa Watanabe Laboratory - High-speed digital archiving](#ishikawa-watanabe-laboratory---high-speed-digital-archiving)
++ [Devices](#devices)
+
 
 ### Websites
 
