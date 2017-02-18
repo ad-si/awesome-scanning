@@ -41,6 +41,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
   Project inventory, image processing, quality control, OCR,
   document structuring and multiple format exporting
   for long-term archiving (commercial).
+- [Nidaba] - Expandable and scalable OCR pipeline.
 - [Page Improver] - Automatic image enhancing software for page scanning.
 - [ScanGate] - Stand-alone software for book digitization (commercial).
 - [ScanTailor] -
@@ -53,6 +54,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Booksorber]: http://booksorber.com
 [Easy Scan]: http://book2net.net/en/products/digitization-software
 [LIMB]: http://i2s-digibook.com/products/enrich/limb-digitizing-workflow
+[Nidaba]: https://github.com/openphilology/nidaba
 [Page Improver]: http://4digitalbooks.com/_soft_imaget.html
 [ScanGate]: http://treventus.com/scangate.html
 [ScanTailor]: http://scantailor.org
