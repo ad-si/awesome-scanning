@@ -195,20 +195,20 @@ https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
 - [Estimation of Non-rigid Surface Deformation using Developable Surface Model]
 - [Proof-of-concept prototype for Book Flipping Scanning]
 
-[Automatic page turner machine for Book Flipping Scanning]: http://k2.t.u-tokyo.ac.jp/vision/BFSflipper/index-e.html
-[BFS-Auto: High Speed & High Definition Book Scanner]: http://k2.t.u-tokyo.ac.jp/vision/BFS-Auto/index-e.html
-[BFS-Solo: High Speed Book Digitization using Monocular Video]: http://k2.t.u-tokyo.ac.jp/vision/BFS-Solo/index-e.html
-[Book Flipping Scanning]: http://k2.t.u-tokyo.ac.jp/vision/BFS/index-e.html
-[Digitization of Deformed Documents using a High-speed Multi-camera Array]: http://k2.t.u-tokyo.ac.jp/vision/MultiBFS/index-e.html
-[Document Digitization and its Quality Improvement using a Multi-camera Array]:  http://k2.t.u-tokyo.ac.jp/vision/MultiBFS_boundary/index-e.html
-[Document Image Rectification using Advance Knowledge of 3D Deformation]: http://k2.t.u-tokyo.ac.jp/vision/BFS_learn/index-e.html
-[Estimation of Non-rigid Surface Deformation using Developable Surface Model]: http://k2.t.u-tokyo.ac.jp/vision/developable/index-e.html
-[High-accuracy rectification technique of deformed document image using Tiled Rectangle Fragments (TRFs)]: http://k2.t.u-tokyo.ac.jp/vision/TRF/index-e.html
-[High-speed and High-definition Document Digitalization System based on Adaptive Scanning using Real-time 3D Sensing]: http://k2.t.u-tokyo.ac.jp/vision/HybridBFS/index-e.html
-[Proof-of-concept prototype for Book Flipping Scanning]: http://k2.t.u-tokyo.ac.jp/vision/BookFlipScan/index-e.html
-[Real-time 3D Page Tracking and Book Status Recognition]: http://k2.t.u-tokyo.ac.jp/vision/BFSPageTracking/index-e.html
-[Reconstruction of 3D Surface and Restoration of Flat document Image from Monocular Image Sequence]: http://k2.t.u-tokyo.ac.jp/vision/MonoBFS/index-e.html
-[Vision architecture overview]: http://k2.t.u-tokyo.ac.jp/vision/index-e.html
+[Automatic page turner machine for Book Flipping Scanning]: http://ishikawa-vision.org/vision/BFSflipper/index-e.html
+[BFS-Auto: High Speed & High Definition Book Scanner]: http://ishikawa-vision.org/vision/BFS-Auto/index-e.html
+[BFS-Solo: High Speed Book Digitization using Monocular Video]: http://ishikawa-vision.org/vision/BFS-Solo/index-e.html
+[Book Flipping Scanning]: http://ishikawa-vision.org/vision/BFS/index-e.html
+[Digitization of Deformed Documents using a High-speed Multi-camera Array]: http://ishikawa-vision.org/vision/MultiBFS/index-e.html
+[Document Digitization and its Quality Improvement using a Multi-camera Array]:  http://ishikawa-vision.org/vision/MultiBFS_boundary/index-e.html
+[Document Image Rectification using Advance Knowledge of 3D Deformation]: http://ishikawa-vision.org/vision/BFS_learn/index-e.html
+[Estimation of Non-rigid Surface Deformation using Developable Surface Model]: http://ishikawa-vision.org/vision/developable/index-e.html
+[High-accuracy rectification technique of deformed document image using Tiled Rectangle Fragments (TRFs)]: http://ishikawa-vision.org/vision/TRF/index-e.html
+[High-speed and High-definition Document Digitalization System based on Adaptive Scanning using Real-time 3D Sensing]: http://ishikawa-vision.org/vision/HybridBFS/index-e.html
+[Proof-of-concept prototype for Book Flipping Scanning]: http://ishikawa-vision.org/vision/BookFlipScan/index-e.html
+[Real-time 3D Page Tracking and Book Status Recognition]: http://ishikawa-vision.org/vision/BFSPageTracking/index-e.html
+[Reconstruction of 3D Surface and Restoration of Flat document Image from Monocular Image Sequence]: http://ishikawa-vision.org/vision/MonoBFS/index-e.html
+[Vision architecture overview]: http://ishikawa-vision.org/vision/index-e.html
 
 
 ### Devices
