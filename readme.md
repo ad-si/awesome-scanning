@@ -14,6 +14,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 - [Posts](#posts)
 - [Discussions](#discussions)
 - [Software Libraries](#software-libraries)
+- [Document Management](#document-management)
 - [Research](#research)
   - [Ishikawa Watanabe Laboratory - High-speed digital archiving](#ishikawa-watanabe-laboratory---high-speed-digital-archiving)
 - [Devices](#devices)
