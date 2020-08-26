@@ -2,33 +2,37 @@
 
 A curated list of awesome projects to simplify and improve paper scannning.
 
-+ [Websites](#websites)
-+ [Apps](#apps)
+<!-- toc -->
+
+- [Websites](#websites)
+- [Apps](#apps)
   - [Desktop](#desktop)
-    * [Cross Platform](#cross-platform)
-    * [MacOS](#macos)
+    - [Cross Platform](#cross-platform)
+    - [MacOS](#macos)
   - [Mobile](#mobile)
-    * [iOS](#ios)
-+ [Posts](#posts)
-+ [Discussions](#discussions)
-+ [Software Libraries](#software-libraries)
-+ [Research](#research)
+    - [iOS](#ios)
+- [Posts](#posts)
+- [Discussions](#discussions)
+- [Software Libraries](#software-libraries)
+- [Research](#research)
   - [Ishikawa Watanabe Laboratory - High-speed digital archiving](#ishikawa-watanabe-laboratory---high-speed-digital-archiving)
-+ [Devices](#devices)
+- [Devices](#devices)
+
+<!-- tocstop -->
 
 
-### Websites
+## Websites
 
 - [DIY Book Scanner] - Community of people who build book scanners.
 
 [DIY Book Scanner]: https://diybookscanner.org
 
 
-### Apps
+## Apps
 
-#### Desktop
+### Desktop
 
-##### Cross Platform
+#### Cross Platform
 
 - [Book Scanning] - Book scanner software for home-made scanner (no license).
 - [BookDrive Editor Pro] -
@@ -64,7 +68,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Book Scanning]: https://github.com/Canta/book-scanning
 
 
-##### MacOS
+#### MacOS
 
 - [Readiris 15] - OCR software to convert papers, images or PDF files to digital documents (Word, Excel, PDF).
 - [Crisper Document Scanner] - Scan documents from images into b \& w files (macOS app).
@@ -77,9 +81,9 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Readiris 15]: https://itunes.apple.com/us/app/readiris-15/id1070209434
 
 
-#### Mobile
+### Mobile
 
-##### iOS
+#### iOS
 
 - [CamCard] - Scan, manage, sync and exchange business cards.
 - [CamScanner] - Scan any kind of document.
@@ -111,7 +115,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Genius Scan]: https://thegrizzlylabs.com/genius-scan
 
 
-### Posts
+## Posts
 
 - [Dewarping pages]
 - [Document scanner] -
@@ -139,13 +143,13 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Unprojecting text with ellipses]: https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html
 
 
-### Discussions
+## Discussions
 
 - [Methods To Sense The 3D Surface/Structure Of A Book](
     https://diybookscanner.org/forum/viewtopic.php?f=17&t=788)
 
 
-### Software Libraries
+## Software Libraries
 
 - [imgwarp-js] - Warp images using JavaScript
 - [Laser Book Scanning] -
@@ -155,7 +159,22 @@ Experimental methods for dewarping document images based on the use of lasers.
 [Laser Book Scanning]: https://github.com/duerig/laser-dewarp
 
 
-### Research
+## Document Management
+
+- [Mayan EDMS] - Libre document management system.
+- [Paperless] - Scan, index, and archive paper documents.
+- [Papermerge] - Open source document management system for digital archives.
+- [Polar] - Knowledge manager for web pages, textbooks, and PDFs.
+- [Teedy] - Lightweight document management system for individuals & businesses.
+
+[Mayan EDMS]: https://github.com/mayan-edms/Mayan-EDMS
+[Paperless]: https://github.com/the-paperless-project/paperless
+[Papermerge]: https://github.com/ciur/papermerge
+[Polarized]: https://getpolarized.io
+[Teedy]: https://github.com/sismics/docs
+
+
+## Research
 
 - [Whiteboard scanning] -
   Whiteboard scanning and image enhancement by Zhengyou Zhang , Li-Wei He
@@ -177,7 +196,7 @@ https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
   http://groups.csail.mit.edu/graphics/CodedAperture
 
 
-#### Ishikawa Watanabe Laboratory - High-speed digital archiving
+### Ishikawa Watanabe Laboratory - High-speed digital archiving
 
 [Vision architecture overview]
 
@@ -211,7 +230,7 @@ https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
 [Vision architecture overview]: http://ishikawa-vision.org/vision/index-e.html
 
 
-### Devices
+## Devices
 
 - [Archivist] - V-shaped platner based book scanner (open source).
 - [Bookscanner] - Linear page turning book scanner (open source).
