@@ -176,7 +176,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Mayan EDMS]: https://github.com/mayan-edms/Mayan-EDMS
 [Paperless]: https://github.com/the-paperless-project/paperless
 [Papermerge]: https://github.com/ciur/papermerge
-[Polarized]: https://getpolarized.io
+[Polar]: https://getpolarized.io
 [Teedy]: https://github.com/sismics/docs
 
 
