@@ -36,20 +36,21 @@ A curated list of awesome projects to simplify and improve paper scannning.
 
 - [Book Scanning] - Book scanner software for home-made scanner (no license).
 - [BookDrive Editor Pro] -
-  Software for post-processing images of books (commercial).
+    Software for post-processing images of books (commercial).
 - [Bookscan] - Single-camera solution for book scanning (open source).
 - [Booksorber] - Processes camera images of book pages (commercial).
 - [Decapod] - Web application frontend for image processing and capture tools.
 - [Easy Scan] - Scanning software for book2net scanners (commercial).
 - [LIMB] -
-  Project inventory, image processing, quality control, OCR,
-  document structuring and multiple format exporting
-  for long-term archiving (commercial).
+    Project inventory, image processing, quality control, OCR,
+    document structuring and multiple format exporting
+    for long-term archiving (commercial).
 - [Nidaba] - Expandable and scalable OCR pipeline.
 - [Page Improver] - Automatic image enhancing software for page scanning.
+- [Perspec] - Manually correct the perspective of images.
 - [ScanGate] - Stand-alone software for book digitization (commercial).
 - [ScanTailor] -
-  Interactive post-processing tool for scanned pages (open source).
+    Interactive post-processing tool for scanned pages (open source).
 - [Skarynka] - Software to scan and process images to build books.
 - [YASW] - Yet Another Scan Wizard (open source).
 
@@ -60,6 +61,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [LIMB]: http://i2s-digibook.com/products/enrich/limb-digitizing-workflow
 [Nidaba]: https://github.com/openphilology/nidaba
 [Page Improver]: http://4digitalbooks.com/_soft_imaget.html
+[Perspec]: https://github.com/ad-si/Perspec
 [ScanGate]: http://treventus.com/scangate.html
 [ScanTailor]: http://scantailor.org
 [Skarynka]: https://github.com/alex73/Skarynka
@@ -153,10 +155,13 @@ A curated list of awesome projects to simplify and improve paper scannning.
 
 - [imgwarp-js] - Warp images using JavaScript
 - [Laser Book Scanning] -
-Experimental methods for dewarping document images based on the use of lasers.
+    Experimental methods for dewarping document images
+    based on the use of lasers.
+- [WeScan] - Library to add scanning functionalities to an iOS app.
 
 [imgwarp-js]: https://github.com/cxcxcxcx/imgwarp-js
 [Laser Book Scanning]: https://github.com/duerig/laser-dewarp
+[WeScan]: https://github.com/WeTransfer/WeScan
 
 
 ## Document Management
@@ -177,14 +182,16 @@ Experimental methods for dewarping document images based on the use of lasers.
 ## Research
 
 - [Whiteboard scanning] -
-  Whiteboard scanning and image enhancement by Zhengyou Zhang , Li-Wei He
+    Whiteboard scanning and image enhancement by Zhengyou Zhang , Li-Wei He
 - [Cam params] -
-  Determining camera parameters from the perspective projection of a rectangle
-  by Robert M. Haralick
+    Determining camera parameters from the perspective projection of a rectangle
+    by Robert M. Haralick
 - [Dewarping of document images] -
-  Two-Step Dewarping of Camera Document Images
-  by N. Stamatopoulos, B. Gatos, I. Pratikakis & S. J. Perantonis
+    Two-Step Dewarping of Camera Document Images
+    by N. Stamatopoulos, B. Gatos, I. Pratikakis & S. J. Perantonis
 - [Dewarping of Document Images using Coupled-Snakes]
+- [DewarpNet: Single-Image Document Unwarping
+    With Stacked 3D and 2D Regression Networks][DewarpNet]
 - [Image and Depth from a Conventional Camera with a Coded Aperture]
 
 [Whiteboard scanning]: http://research.microsoft.com/en-us/um/people/zhang/papers/tr03-39.pdf
@@ -192,6 +199,7 @@ Experimental methods for dewarping document images based on the use of lasers.
 [Dewarping of document images]: http://users.iit.demokritos.gr/~bgat/3337a209.pdf
 [Dewarping of Document Images using Coupled-Snakes]:
 https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
+[DewarpNet]: https://github.com/cvlab-stonybrook/DewarpNet
 [Image and Depth from a Conventional Camera with a Coded Aperture]:
   http://groups.csail.mit.edu/graphics/CodedAperture
 
