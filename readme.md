@@ -21,7 +21,6 @@ A curated list of awesome projects to simplify and improve paper scannning.
 
 <!-- tocstop -->
 
-
 ## Websites
 
 - [DIY Book Scanner] - Community of people who build book scanners.
@@ -52,6 +51,8 @@ A curated list of awesome projects to simplify and improve paper scannning.
 - [ScanGate] - Stand-alone software for book digitization (commercial).
 - [ScanTailor] -
     Interactive post-processing tool for scanned pages (open source).
+- [ScanTailor Advanced] -
+    Merges features of forks, adds new features, and includes fixes.
 - [Skarynka] - Software to scan and process images to build books.
 - [YASW] - Yet Another Scan Wizard (open source).
 
@@ -65,6 +66,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Perspec]: https://github.com/ad-si/Perspec
 [ScanGate]: http://treventus.com/scangate.html
 [ScanTailor]: http://scantailor.org
+[ScanTailor Advanced]: https://github.com/4lex4/scantailor-advanced
 [Skarynka]: https://github.com/alex73/Skarynka
 [YASW]: https://sourceforge.net/projects/yascanw
 [Decapod]: https://github.com/Decapod/decapod
@@ -133,6 +135,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 - [Unpaper] - Post-processing tool for scanned sheets of paper.
 - [Unprojecting text with ellipses] -
   Using transformed ellipses to estimate perspective transformations of text.
+- [Building an image processing pipeline with Python]
 
 [Dewarping pages]: http://halfbakedmaker.org/blog/366
 [Document scanner]: http://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes
@@ -144,12 +147,17 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Stackoverflow]: http://stackoverflow.com/questions/1194352/proportions-of-a-perspective-deformed-rectangle
 [Unpaper]: https://github.com/Flameeyes/unpaper
 [Unprojecting text with ellipses]: https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html
+[Building an image processing pipeline with Python]:
+  http://pyvideo.org/pycon-us-2013/building-an-image-processing-pipeline-with-python.html
 
 
 ## Discussions
 
 - [Methods To Sense The 3D Surface/Structure Of A Book](
     https://diybookscanner.org/forum/viewtopic.php?f=17&t=788)
+- [What are the most common algorithms for adaptive thresholding?][alg-thresh]
+
+[alg-thresh]: https://dsp.stackexchange.com/q/2411/26515
 
 
 ## Software Libraries
@@ -194,6 +202,8 @@ A curated list of awesome projects to simplify and improve paper scannning.
 - [DewarpNet: Single-Image Document Unwarping
     With Stacked 3D and 2D Regression Networks][DewarpNet]
 - [Image and Depth from a Conventional Camera with a Coded Aperture]
+- [The IUPR Dataset of Camera-Captured Document Images][iupr-dataset]
+- [Image processing via level set curvature flow]
 
 [Whiteboard scanning]: http://research.microsoft.com/en-us/um/people/zhang/papers/tr03-39.pdf
 [Cam params]: http://portal.acm.org/citation.cfm?id=87146
@@ -203,6 +213,10 @@ https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
 [DewarpNet]: https://github.com/cvlab-stonybrook/DewarpNet
 [Image and Depth from a Conventional Camera with a Coded Aperture]:
   http://groups.csail.mit.edu/graphics/CodedAperture
+[The IUPR Dataset of Camera-Captured Document Images]:
+  https://www.dfki.de/en/web/research/projects-and-publications/publications-overview/publication/5681/
+[Image processing via level set curvature flow]:
+    https://math.berkeley.edu/~sethian/2006/Papers/sethian.imageprocessinglevelset.pnas.pdf
 
 
 ### Ishikawa Watanabe Laboratory - High-speed digital archiving
