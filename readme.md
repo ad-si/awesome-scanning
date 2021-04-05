@@ -11,6 +11,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
     - [MacOS](#macos)
   - [Mobile](#mobile)
     - [iOS](#ios)
+    - [Android](#android)
 - [Posts](#posts)
 - [Discussions](#discussions)
 - [Software Libraries](#software-libraries)
@@ -79,12 +80,13 @@ A curated list of awesome projects to simplify and improve paper scannning.
 - [Crisper Document Scanner] - Scan documents from images into b \& w files (macOS app).
 - [DxO Perspective] - Correct perspective issues in images (macOS app).
 - [Plumb-Bob]: Perspective rectifier (macOS app).
+- [Prizmo] - Turn photos into scans by adjusting perspective, cropping, etc (macOS app).
 
 [Crisper Document Scanner]: https://itunes.apple.com/app/id1170499100
 [DxO Perspective]: http://dxo.com/us/photography/dxo-perspective
 [Plumb-Bob]: http://fitplot.it/plumb-bob
 [Readiris 15]: https://itunes.apple.com/us/app/readiris-15/id1070209434
-
+[Prizmo]: https://apps.apple.com/app/id546392952
 
 ### Mobile
 
@@ -119,6 +121,17 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Office Lens]: https://microsoft.com/en-us/store/p/office-lens/9wzdncrfj3t8
 [Genius Scan]: https://thegrizzlylabs.com/genius-scan
 
+### Android
+- [Stack] - Go from photo to neat PDF in no time. Automatically adds and categorizes photos by Area 120 by Google.
+- [Microsoft Lens] - Turn a photo of a document into a by adjusting perspective. Also had other editing built in.
+- [Adobe Scan] - Scan, OCR, edit documents with your phone camera (account required).
+- [Google Drive] - Use the camera to scan documents. Does not allow loading existing photo from phone.
+
+
+[Microsoft Lens]: https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
+[Stack]: https://play.google.com/store/apps/details?id=com.area120.paperwork
+[Adobe Scan]: https://play.google.com/store/apps/details?id=com.adobe.scan.android
+[Google Drive]: https://support.google.com/drive/answer/3145835?co=GENIE.Platform%3DAndroid
 
 ## Posts
 
