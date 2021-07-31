@@ -121,17 +121,19 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Office Lens]: https://microsoft.com/en-us/store/p/office-lens/9wzdncrfj3t8
 [Genius Scan]: https://thegrizzlylabs.com/genius-scan
 
-### Android
-- [Stack] - Go from photo to neat PDF in no time. Automatically adds and categorizes photos by Area 120 by Google.
-- [Microsoft Lens] - Turn a photo of a document into a by adjusting perspective. Also had other editing built in.
-- [Adobe Scan] - Scan, OCR, edit documents with your phone camera (account required).
-- [Google Drive] - Use the camera to scan documents. Does not allow loading existing photo from phone.
 
+### Android
+
+- [Stack] - PDF scanner, document organizer, and detail finder by Google's Area 120.
+- [Microsoft Lens] - Trim, enhances, and make photos of whiteboards and documents readable.
+- [Adobe Scan] - Scan, OCR, and edit documents (account required).
+- [Google Drive] - Use the camera to scan documents (does not support loading existing photos).
 
 [Microsoft Lens]: https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
 [Stack]: https://play.google.com/store/apps/details?id=com.area120.paperwork
 [Adobe Scan]: https://play.google.com/store/apps/details?id=com.adobe.scan.android
 [Google Drive]: https://support.google.com/drive/answer/3145835?co=GENIE.Platform%3DAndroid
+
 
 ## Posts
 
@@ -226,7 +228,7 @@ https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
 [DewarpNet]: https://github.com/cvlab-stonybrook/DewarpNet
 [Image and Depth from a Conventional Camera with a Coded Aperture]:
   http://groups.csail.mit.edu/graphics/CodedAperture
-[The IUPR Dataset of Camera-Captured Document Images]:
+[iupr-dataset]:
   https://www.dfki.de/en/web/research/projects-and-publications/publications-overview/publication/5681/
 [Image processing via level set curvature flow]:
     https://math.berkeley.edu/~sethian/2006/Papers/sethian.imageprocessinglevelset.pnas.pdf
