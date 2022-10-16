@@ -101,6 +101,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 - [Office Lens] -
   Trims, enhances and makes pictures of whiteboards and docs readable.
 - [PDF Scanner] - Scan books and multipage documents to PDF.
+- [Quick Scan] - Scan, Recognize, Automate.
 - [SamCard] - Business card reader.
 - [Scanbot] - High quality scans with one tap.
 - [Scannable] - Scan contracts, receipts and business cards.
@@ -113,6 +114,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [FineScanner]: http://finescanner.com
 [IRIScan]: http://irislink.com/EN-ROW/c1102/IRIScan-iOS---OCR-App-for-iOS.aspx
 [PDF Scanner]: https://itunes.apple.com/app/id784454179
+[Quick Scan]: https://www.quickscanapp.com/
 [SamCard]: http://samcard.net
 [Scanbot]: https://scanbot.io
 [Scannable]: https://evernote.com/products/scannable
@@ -191,16 +193,18 @@ A curated list of awesome projects to simplify and improve paper scannning.
 ## Document Management
 
 - [Mayan EDMS] - Libre document management system.
-- [Paperless] - Scan, index, and archive paper documents.
+- [Paperless-ngx] - Scan, index, and archive paper documents.
 - [Papermerge] - Open source document management system for digital archives.
-- [Polar] - Knowledge manager for web pages, textbooks, and PDFs.
+- [Docspell] - Personal document organizer.
 - [Teedy] - Lightweight document management system for individuals & businesses.
+- [Polar] - Knowledge manager for web pages, textbooks, and PDFs.
 
 [Mayan EDMS]: https://github.com/mayan-edms/Mayan-EDMS
-[Paperless]: https://github.com/the-paperless-project/paperless
+[Paperless-ngx]: https://github.com/paperless-ngx/paperless-ngx
 [Papermerge]: https://github.com/ciur/papermerge
-[Polar]: https://getpolarized.io
+[Docspell]: https://github.com/eikek/docspell
 [Teedy]: https://github.com/sismics/docs
+[Polar]: https://getpolarized.io
 
 
 ## Research
