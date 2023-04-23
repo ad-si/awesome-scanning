@@ -1,6 +1,6 @@
 # Awesome Scanning
 
-A curated list of awesome projects to simplify and improve paper scannning.
+A curated list of awesome projects to simplify and improve paper scanning.
 
 <!-- toc -->
 
@@ -47,6 +47,8 @@ A curated list of awesome projects to simplify and improve paper scannning.
     document structuring and multiple format exporting
     for long-term archiving (commercial).
 - [Nidaba] - Expandable and scalable OCR pipeline.
+- [OpenCV-Document-Scanner] -
+    Interactive document scanner built with Python and OpenCV.
 - [Page Improver] - Automatic image enhancing software for page scanning.
 - [Perspec] - Manually correct the perspective of images.
 - [ScanGate] - Stand-alone software for book digitization (commercial).
@@ -63,6 +65,7 @@ A curated list of awesome projects to simplify and improve paper scannning.
 [Easy Scan]: http://book2net.net/en/products/digitization-software
 [LIMB]: http://i2s-digibook.com/products/enrich/limb-digitizing-workflow
 [Nidaba]: https://github.com/openphilology/nidaba
+[OpenCV-Document-Scanner]: https://github.com/andrewdcampbell/OpenCV-Document-Scanner
 [Page Improver]: http://4digitalbooks.com/_soft_imaget.html
 [Perspec]: https://github.com/ad-si/Perspec
 [ScanGate]: http://treventus.com/scangate.html
@@ -76,17 +79,18 @@ A curated list of awesome projects to simplify and improve paper scannning.
 
 #### MacOS
 
-- [Readiris 15] - OCR software to convert papers, images or PDF files to digital documents (Word, Excel, PDF).
 - [Crisper Document Scanner] - Scan documents from images into b \& w files (macOS app).
 - [DxO Perspective] - Correct perspective issues in images (macOS app).
-- [Plumb-Bob]: Perspective rectifier (macOS app).
-- [Prizmo] - Turn photos into scans by adjusting perspective, cropping, etc (macOS app).
+- [Plumb-Bob] - Perspective rectifier (macOS app).
+- [Prizmo] - Turn photos into scans by adjusting perspective, cropping, etc. (macOS app).
+- [Readiris 17] - OCR software to convert papers, images, or PDF files to digital documents.
 
 [Crisper Document Scanner]: https://itunes.apple.com/app/id1170499100
 [DxO Perspective]: http://dxo.com/us/photography/dxo-perspective
 [Plumb-Bob]: http://fitplot.it/plumb-bob
-[Readiris 15]: https://itunes.apple.com/us/app/readiris-15/id1070209434
 [Prizmo]: https://apps.apple.com/app/id546392952
+[Readiris 15]: https://itunes.apple.com/us/app/readiris-15/id1070209434
+
 
 ### Mobile
 
@@ -141,22 +145,24 @@ A curated list of awesome projects to simplify and improve paper scannning.
 
 - [Dewarping pages]
 - [Document scanner] -
-  How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes.
+    How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes.
 - [Genetic programming in the cloud]
+- [Keypoint Detection with Transfer Learning][keypoint]
 - [math.stackexchange] -
-  Compute ratio of a rectangle seen from an unknown perspective.
+    Compute ratio of a rectangle seen from an unknown perspective.
 - [Noteshrink] - Compressing and enhancing hand-written notes.
 - [Page dewarping] - Flattening images of curled pages.
 - [Perspective transform] - 4 Point OpenCV getPerspective Transform Example.
 - [Stackoverflow] - Proportions of a perspective-deformed rectangle.
 - [Unpaper] - Post-processing tool for scanned sheets of paper.
 - [Unprojecting text with ellipses] -
-  Using transformed ellipses to estimate perspective transformations of text.
+    Using transformed ellipses to estimate perspective transformations of text.
 - [Building an image processing pipeline with Python]
 
 [Dewarping pages]: http://halfbakedmaker.org/blog/366
 [Document scanner]: http://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes
 [Genetic programming in the cloud]: http://halfbakedmaker.org/blog/382
+[keypoint]: https://keras.io/examples/vision/keypoint_detection/
 [math.stackexchange]: http://math.stackexchange.com/questions/1339924/compute-ratio-of-a-rectangle-seen-from-an-unknown-perspective
 [Noteshrink]: https://mzucker.github.io/2016/09/20/noteshrink.html
 [Page dewarping]: https://mzucker.github.io/2016/08/15/page-dewarping.html
@@ -179,32 +185,43 @@ A curated list of awesome projects to simplify and improve paper scannning.
 
 ## Software Libraries
 
-- [imgwarp-js] - Warp images using JavaScript
+- [imgwarp-js] - Warp images using JavaScript.
 - [Laser Book Scanning] -
     Experimental methods for dewarping document images
     based on the use of lasers.
+- [LCNN] - End-to-End Wireframe Parsing.
+- [Segment Anything] - AI model that can cut out any object in any image.
 - [WeScan] - Library to add scanning functionalities to an iOS app.
 
 [imgwarp-js]: https://github.com/cxcxcxcx/imgwarp-js
 [Laser Book Scanning]: https://github.com/duerig/laser-dewarp
+[LCNN]: https://github.com/zhou13/lcnn
+[Segment Anything]: https://github.com/facebookresearch/segment-anything
 [WeScan]: https://github.com/WeTransfer/WeScan
 
 
 ## Document Management
 
+- [Docspell] - Document management system for private and small business use.
+- [Hermes] - Open source document management system by HashiCorp.
 - [Mayan EDMS] - Libre document management system.
-- [Paperless-ngx] - Scan, index, and archive paper documents.
+- [Paperless NGX] - Scan, index, and archive paper documents.
 - [Papermerge] - Open source document management system for digital archives.
-- [Docspell] - Personal document organizer.
-- [Teedy] - Lightweight document management system for individuals & businesses.
+- [Paperwork] - Personal document manager for Linux and Windows.
 - [Polar] - Knowledge manager for web pages, textbooks, and PDFs.
+- [TagSpaces] - Offline & open source document manager with tagging support.
+- [Teedy] - Lightweight document management system for individuals & businesses.
 
-[Mayan EDMS]: https://github.com/mayan-edms/Mayan-EDMS
-[Paperless-ngx]: https://github.com/paperless-ngx/paperless-ngx
-[Papermerge]: https://github.com/ciur/papermerge
 [Docspell]: https://github.com/eikek/docspell
-[Teedy]: https://github.com/sismics/docs
+[Hermes]: https://github.com/hashicorp-forge/hermes
+[Mayan EDMS]: https://github.com/mayan-edms/Mayan-EDMS
+[Paperless NGX]: https://github.com/paperless-ngx/paperless-ngx
+[Paperless]: https://github.com/the-paperless-project/paperless
+[Papermerge]: https://github.com/ciur/papermerge
+[Paperwork]: https://openpaper.work
 [Polar]: https://getpolarized.io
+[TagSpaces]: https://github.com/tagspaces/tagspaces
+[Teedy]: https://github.com/sismics/docs
 
 
 ## Research
