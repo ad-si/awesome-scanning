@@ -22,11 +22,14 @@ A curated list of awesome projects to simplify and improve paper scanning.
 
 <!-- tocstop -->
 
+
 ## Websites
 
 - [DIY Book Scanner] - Community of people who build book scanners.
+- [Docutain] - SDK for document & barcode scanning and data capturing.
 
 [DIY Book Scanner]: https://diybookscanner.org
+[Docutain]: https://docutain.com
 
 
 ## Apps
