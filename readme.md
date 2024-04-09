@@ -133,15 +133,17 @@ A curated list of awesome projects to simplify and improve paper scanning.
 
 ### Android
 
-- [Stack] - PDF scanner, document organizer, and detail finder by Google's Area 120.
-- [Microsoft Lens] - Trim, enhances, and make photos of whiteboards and documents readable.
 - [Adobe Scan] - Scan, OCR, and edit documents (account required).
 - [Google Drive] - Use the camera to scan documents (does not support loading existing photos).
+- [Microsoft Lens] - Trim, enhances, and make photos of whiteboards and documents readable.
+- [PDF-Doc-Scan] - Open source Android PDF document scanning app.
+- [Stack] - PDF scanner, document organizer, and detail finder by Google's Area 120.
 
-[Microsoft Lens]: https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
-[Stack]: https://play.google.com/store/apps/details?id=com.area120.paperwork
 [Adobe Scan]: https://play.google.com/store/apps/details?id=com.adobe.scan.android
 [Google Drive]: https://support.google.com/drive/answer/3145835?co=GENIE.Platform%3DAndroid
+[Microsoft Lens]: https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
+[PDF-Doc-Scan]: https://github.com/LittleTrickster/PDF-Doc-Scan
+[Stack]: https://play.google.com/store/apps/details?id=com.area120.paperwork
 
 
 ## Posts
