@@ -167,6 +167,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [rbgg] - Remove background from images of paper.
 - [Unprojecting text with ellipses] -
     Using transformed ellipses to estimate perspective transformations of text.
+- [Document-Dewarping with Control-Points] - Dewarping of document images using control points.
 - [Building an image processing pipeline with Python]
 
 [Dewarping pages]: http://halfbakedmaker.org/blog/366
@@ -182,6 +183,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [pdfsandwich]: http://www.tobias-elze.de/pdfsandwich/
 [rbgg]: https://github.com/fogleman/rbgg
 [Unprojecting text with ellipses]: https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html
+[Document-Dewarping with Control-Points]: https://github.com/gwxie/Document-Dewarping-with-Control-Points
 [Building an image processing pipeline with Python]:
   http://pyvideo.org/pycon-us-2013/building-an-image-processing-pipeline-with-python.html
 
