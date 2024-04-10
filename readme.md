@@ -192,9 +192,11 @@ A curated list of awesome projects to simplify and improve paper scanning.
 
 - [Methods To Sense The 3D Surface/Structure Of A Book](
     https://diybookscanner.org/forum/viewtopic.php?f=17&t=788)
+- [Robust Reading Competition] - Detection and recognition challenges for text in scene images.
 - [What are the most common algorithms for adaptive thresholding?][alg-thresh]
 
 [alg-thresh]: https://dsp.stackexchange.com/q/2411/26515
+[Robust Reading Competition]: https://rrc.cvc.uab.es
 
 
 ## Software Libraries
