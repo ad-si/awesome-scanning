@@ -203,6 +203,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [LCNN] - End-to-End Wireframe Parsing.
 - [Segment Anything] - AI model that can cut out any object in any image.
 - [WeScan] - Library to add scanning functionalities to an iOS app.
+- [PyThreshold] - Implementations of state-of-the-art image thresholding algorithms.
 
 [Pixelnetica]: https://www.pixelnetica.com/
 [imgwarp-js]: https://github.com/cxcxcxcx/imgwarp-js
@@ -210,6 +211,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [LCNN]: https://github.com/zhou13/lcnn
 [Segment Anything]: https://github.com/facebookresearch/segment-anything
 [WeScan]: https://github.com/WeTransfer/WeScan
+[PyThreshold]: https://github.com/manuelaguadomtz/pythreshold
 
 
 ## Document Management
