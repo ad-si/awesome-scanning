@@ -2,6 +2,16 @@
 
 A curated list of awesome projects to simplify and improve paper scanning.
 
+> [!TIP]
+> <sup>Sponsored by:</sup> \
+> **Perspec - Desktop app to correct the perspective of images.** \
+> <sub>🌐 [Get Perspec](https://feram.gumroad.com/l/perspec)</sub> \
+> <sub>🖥️ [github.com/ad-si/Perspec](https://github.com/ad-si/Perspec)</sub>
+
+---
+
+**Table Of Contents**
+
 <!-- toc -->
 
 - [Websites](#websites)
@@ -11,7 +21,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
     - [MacOS](#macos)
   - [Mobile](#mobile)
     - [iOS](#ios)
-    - [Android](#android)
+  - [Android](#android)
 - [Posts](#posts)
 - [Discussions](#discussions)
 - [Software Libraries](#software-libraries)
@@ -21,7 +31,6 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Devices](#devices)
 
 <!-- tocstop -->
-
 
 ## Websites
 
