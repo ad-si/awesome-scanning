@@ -161,6 +161,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Perspective transform] - 4 Point OpenCV getPerspective Transform Example.
 - [Stackoverflow] - Proportions of a perspective-deformed rectangle.
 - [Unpaper] - Post-processing tool for scanned sheets of paper.
+- [pdfsandwich] - CLI tool using OCR to add text to image PDFs.
 - [Unprojecting text with ellipses] -
     Using transformed ellipses to estimate perspective transformations of text.
 - [Building an image processing pipeline with Python]
@@ -175,6 +176,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Perspective transform]: http://pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example
 [Stackoverflow]: http://stackoverflow.com/questions/1194352/proportions-of-a-perspective-deformed-rectangle
 [Unpaper]: https://github.com/Flameeyes/unpaper
+[pdfsandwich]: http://www.tobias-elze.de/pdfsandwich/
 [Unprojecting text with ellipses]: https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html
 [Building an image processing pipeline with Python]:
   http://pyvideo.org/pycon-us-2013/building-an-image-processing-pipeline-with-python.html
