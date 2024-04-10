@@ -262,6 +262,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Image and Depth from a Conventional Camera with a Coded Aperture]
 - [The IUPR Dataset of Camera-Captured Document Images][iupr-dataset]
 - [Image processing via level set curvature flow]
+- [OCR Datasets] - Collection of OCR-related datasets.
 
 [Whiteboard scanning]: http://research.microsoft.com/en-us/um/people/zhang/papers/tr03-39.pdf
 [Cam params]: http://portal.acm.org/citation.cfm?id=87146
@@ -275,6 +276,7 @@ https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
   https://www.dfki.de/en/web/research/projects-and-publications/publications-overview/publication/5681/
 [Image processing via level set curvature flow]:
     https://math.berkeley.edu/~sethian/2006/Papers/sethian.imageprocessinglevelset.pnas.pdf
+[OCR Datasets]: https://github.com/xinke-wang/OCRDatasets
 
 
 ### Ishikawa Watanabe Laboratory - High-speed digital archiving
