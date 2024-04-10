@@ -207,6 +207,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 ## Document Management
 
 - [Docspell] - Document management system for private and small business use.
+- [OpenPaper.work] - Scan and import personal documents.
 - [Hermes] - Open source document management system by HashiCorp.
 - [Mayan EDMS] - Libre document management system.
 - [Paperless NGX] - Scan, index, and archive paper documents.
@@ -216,6 +217,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [TagSpaces] - Offline & open source document manager with tagging support.
 - [Teedy] - Lightweight document management system for individuals & businesses.
 
+[OpenPaper.work]: https://www.openpaper.work/en/
 [Docspell]: https://github.com/eikek/docspell
 [Hermes]: https://github.com/hashicorp-forge/hermes
 [Mayan EDMS]: https://github.com/mayan-edms/Mayan-EDMS
