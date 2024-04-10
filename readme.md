@@ -190,6 +190,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 ## Software Libraries
 
 - [imgwarp-js] - Warp images using JavaScript.
+- [Pixelnetica] - Document Scanning SDK for business apps.
 - [Laser Book Scanning] -
     Experimental methods for dewarping document images
     based on the use of lasers.
@@ -197,6 +198,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Segment Anything] - AI model that can cut out any object in any image.
 - [WeScan] - Library to add scanning functionalities to an iOS app.
 
+[Pixelnetica]: https://www.pixelnetica.com/
 [imgwarp-js]: https://github.com/cxcxcxcx/imgwarp-js
 [Laser Book Scanning]: https://github.com/duerig/laser-dewarp
 [LCNN]: https://github.com/zhou13/lcnn
