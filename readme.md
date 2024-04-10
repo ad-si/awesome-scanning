@@ -74,6 +74,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
     Merges features of forks, adds new features, and includes fixes.
 - [Skarynka] - Software to scan and process images to build books.
 - [YASW] - Yet Another Scan Wizard (open source).
+- [scanner] - Document scanner for the web built in Rust.
 
 [Book Scanning]: https://github.com/Canta/book-scanning
 [BookDrive Editor Pro]: http://atiz.com/bookdrive-editor-pro
@@ -93,6 +94,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [ScanTailor]: http://scantailor.org
 [Skarynka]: https://github.com/alex73/Skarynka
 [YASW]: https://sourceforge.net/projects/yascanw
+[scanner]: https://github.com/101arrowz/scanner
 
 
 #### MacOS
