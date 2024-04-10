@@ -116,6 +116,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Scanbot] - High quality scans with one tap.
 - [Scannable] - Scan contracts, receipts and business cards.
 - [Scanner Pro] - Scan paper documents into PDFs.
+- [vFlat] - Capture documents, forms, receipts, books and convert them into high-quality PDFs.
 
 [CamScanner]: https://camscanner.com
 [Docr]: https://itunes.apple.com/app/id1112445201
@@ -124,6 +125,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Scanbot]: https://scanbot.io
 [Scannable]: https://evernote.com/products/scannable
 [Scanner Pro]: https://readdle.com/products/scannerpro
+[vFlat]: https://www.vflat.com/en
 [Office Lens]: https://microsoft.com/en-us/store/p/office-lens/9wzdncrfj3t8
 [Genius Scan]: https://thegrizzlylabs.com/genius-scan
 
