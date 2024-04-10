@@ -36,9 +36,11 @@ A curated list of awesome projects to simplify and improve paper scanning.
 
 - [DIY Book Scanner] - Community of people who build book scanners.
 - [Docutain] - SDK for document & barcode scanning and data capturing.
+- [Eagle Doc] - Invoice and receipt Recognition as a service.
 
 [DIY Book Scanner]: https://diybookscanner.org
 [Docutain]: https://docutain.com
+[Eagle Doc]: https://www.eagle-doc.com
 
 
 ## Apps
