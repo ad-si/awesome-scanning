@@ -44,6 +44,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Bookscan] - Single-camera solution for book scanning (open source).
 - [Booksorber] - Processes camera images of book pages (commercial).
 - [Decapod] - Web application frontend for image processing and capture tools.
+- [DxO Viewpoint] - Correct perspective distortions in images (commercial).
 - [Easy Scan] - Scanning software for book2net scanners (commercial).
 - [LIMB] -
     Project inventory, image processing, quality control, OCR,
@@ -54,6 +55,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
     Interactive document scanner built with Python and OpenCV.
 - [Page Improver] - Automatic image enhancing software for page scanning.
 - [Perspec] - Manually correct the perspective of images.
+- [Readiris 17] - OCR software to digitalize papers, images, or PDF files.
 - [ScanGate] - Stand-alone software for book digitization (commercial).
 - [ScanTailor] -
     Interactive post-processing tool for scanned pages (open source).
@@ -62,71 +64,57 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Skarynka] - Software to scan and process images to build books.
 - [YASW] - Yet Another Scan Wizard (open source).
 
+[Book Scanning]: https://github.com/Canta/book-scanning
 [BookDrive Editor Pro]: http://atiz.com/bookdrive-editor-pro
 [Bookscan]: https://github.com/publicus/bookscan
 [Booksorber]: http://booksorber.com
-[Easy Scan]: http://book2net.net/en/products/digitization-software
-[LIMB]: http://i2s-digibook.com/products/enrich/limb-digitizing-workflow
+[Decapod]: https://github.com/Decapod/decapod
+[DxO Viewpoint]: https://www.dxo.com/dxo-viewpoint/
+[Easy Scan]: https://book2net.net/en/2021/06/30/easy-scan/
+[LIMB]: https://www.limbsuite.com
 [Nidaba]: https://github.com/openphilology/nidaba
 [OpenCV-Document-Scanner]: https://github.com/andrewdcampbell/OpenCV-Document-Scanner
-[Page Improver]: http://4digitalbooks.com/_soft_imaget.html
+[Page Improver]: http://4digitalbooks.com/_soft_imaget.php
 [Perspec]: https://github.com/ad-si/Perspec
+[Readiris 17]: https://iriscorporate.com/softwares/readiris-17/
 [ScanGate]: http://treventus.com/scangate.html
-[ScanTailor]: http://scantailor.org
 [ScanTailor Advanced]: https://github.com/4lex4/scantailor-advanced
+[ScanTailor]: http://scantailor.org
 [Skarynka]: https://github.com/alex73/Skarynka
 [YASW]: https://sourceforge.net/projects/yascanw
-[Decapod]: https://github.com/Decapod/decapod
-[Book Scanning]: https://github.com/Canta/book-scanning
 
 
 #### MacOS
 
-- [Crisper Document Scanner] - Scan documents from images into b \& w files (macOS app).
-- [DxO Perspective] - Correct perspective issues in images (macOS app).
 - [Plumb-Bob] - Perspective rectifier (macOS app).
 - [Prizmo] - Turn photos into scans by adjusting perspective, cropping, etc. (macOS app).
-- [Readiris 17] - OCR software to convert papers, images, or PDF files to digital documents.
 
-[Crisper Document Scanner]: https://itunes.apple.com/app/id1170499100
-[DxO Perspective]: http://dxo.com/us/photography/dxo-perspective
 [Plumb-Bob]: http://fitplot.it/plumb-bob
 [Prizmo]: https://apps.apple.com/app/id546392952
-[Readiris 15]: https://itunes.apple.com/us/app/readiris-15/id1070209434
 
 
 ### Mobile
 
 #### iOS
 
-- [CamCard] - Scan, manage, sync and exchange business cards.
 - [CamScanner] - Scan any kind of document.
 - [Docr] - PDF scanner with document image dewarping.
-- [FineScanner] - Digitize Your Docs and Books Anywhere.
 - [Genius Scan] - A scanner in your pocket.
 - [IRIScan] - Scan documents with your iPhone or iPad.
 - [Office Lens] -
   Trims, enhances and makes pictures of whiteboards and docs readable.
-- [PDF Scanner] - Scan books and multipage documents to PDF.
 - [Quick Scan] - Scan, Recognize, Automate.
-- [SamCard] - Business card reader.
 - [Scanbot] - High quality scans with one tap.
 - [Scannable] - Scan contracts, receipts and business cards.
 - [Scanner Pro] - Scan paper documents into PDFs.
-- [Tiny Scan] - Scanner for documents, photos & receipts.
 
-[CamCard]: https://camcard.com
 [CamScanner]: https://camscanner.com
 [Docr]: https://itunes.apple.com/app/id1112445201
-[FineScanner]: http://finescanner.com
 [IRIScan]: http://irislink.com/EN-ROW/c1102/IRIScan-iOS---OCR-App-for-iOS.aspx
-[PDF Scanner]: https://itunes.apple.com/app/id784454179
 [Quick Scan]: https://www.quickscanapp.com/
-[SamCard]: http://samcard.net
 [Scanbot]: https://scanbot.io
 [Scannable]: https://evernote.com/products/scannable
 [Scanner Pro]: https://readdle.com/products/scannerpro
-[Tiny Scan]: http://www.appxy.com/tinyscan/
 [Office Lens]: https://microsoft.com/en-us/store/p/office-lens/9wzdncrfj3t8
 [Genius Scan]: https://thegrizzlylabs.com/genius-scan
 
@@ -299,11 +287,11 @@ https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
 ## Devices
 
 - [Archivist] - V-shaped platner based book scanner (open source).
-- [Bookscanner] - Linear page turning book scanner (open source).
+- [book2net] - Book scanners for libraries and archives (commercial).
 - [Linear Book Scanner] - Low-cost page-turning book scanner (open source).
 - [Portable Scanners] - Several portabal scanning devices (commercial).
 
 [Archivist]: http://diybookscanner.org/archivist
-[Bookscanner]: https://bookscanner.de
+[book2net]: https://book2net.net/en/products/
 [Linear Book Scanner]: https://linearbookscanner.org
 [Portable Scanners]: http://irislink.com/EN-ROW/c1080/IRIScan---Portable-scanners---Discover-our-range.aspx

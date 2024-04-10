@@ -3,3 +3,8 @@ readme.md:
 		--bullets='-' \
 		-i \
 		$@
+
+
+.PHONY: test
+test:
+	lychee readme.md
