@@ -162,6 +162,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Stackoverflow] - Proportions of a perspective-deformed rectangle.
 - [Unpaper] - Post-processing tool for scanned sheets of paper.
 - [pdfsandwich] - CLI tool using OCR to add text to image PDFs.
+- [rbgg] - Remove background from images of paper.
 - [Unprojecting text with ellipses] -
     Using transformed ellipses to estimate perspective transformations of text.
 - [Building an image processing pipeline with Python]
@@ -177,6 +178,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Stackoverflow]: http://stackoverflow.com/questions/1194352/proportions-of-a-perspective-deformed-rectangle
 [Unpaper]: https://github.com/Flameeyes/unpaper
 [pdfsandwich]: http://www.tobias-elze.de/pdfsandwich/
+[rbgg]: https://github.com/fogleman/rbgg
 [Unprojecting text with ellipses]: https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html
 [Building an image processing pipeline with Python]:
   http://pyvideo.org/pycon-us-2013/building-an-image-processing-pipeline-with-python.html
