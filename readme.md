@@ -203,23 +203,40 @@ A curated list of awesome projects to simplify and improve paper scanning.
 
 ## Software Libraries
 
+- [CornerAPI] - Detect torn corners and edges in document images.
+- [Empty_training] - Train neural network to detect empty pages in document images.
+- [EmptyAPI] - Detect empty pages in document images.
+- [FaultyImageAPI] - Combines [CornerAPI], [EmptyAPI], [PostitAPI], and  [WritingtypeAPI]
 - [imgwarp-js] - Warp images using JavaScript.
-- [Pixelnetica] - Document Scanning SDK for business apps.
-- [Laser Book Scanning] -
-    Experimental methods for dewarping document images
-    based on the use of lasers.
+- [Laser Book Scanning] - Experimental methods for dewarping document images based on the use of lasers.
 - [LCNN] - End-to-End Wireframe Parsing.
-- [Segment Anything] - AI model that can cut out any object in any image.
-- [WeScan] - Library to add scanning functionalities to an iOS app.
+- [Pixelnetica] - Document Scanning SDK for business apps.
+- [PostitAPI] - Detect post-it/sticky notes in document images.
 - [PyThreshold] - Implementations of state-of-the-art image thresholding algorithms.
+- [Segment Anything] - AI model that can cut out any object in any image.
+- [Table_segmentation] - Segment table structures and detect text content in document images.
+- [Train_document_classification] - Train a neural network to classify input documents based on the type/format.
+- [Train_fault_detection] - Train a neural network to detect faults (e.g. folded corners, sticky notes, …) in document images.
+- [Train_writing_type] - Train a neural network to classify document images by writing type (handwritten, typewritten).
+- [WeScan] - Library to add scanning functionalities to an iOS app.
+- [WritingtypeAPI] - Classify document based on the writing type (handwritten, typewritten).
 
-[Pixelnetica]: https://www.pixelnetica.com/
+[CornerAPI]: https://github.com/DALAI-project/CornerAPI
+[Empty_training]: https://github.com/DALAI-project/Empty_training
+[EmptyAPI]: https://github.com/DALAI-project/EmptyAPI
+[FaultyImageAPI]: https://github.com/DALAI-project/FaultyImageAPI
 [imgwarp-js]: https://github.com/cxcxcxcx/imgwarp-js
 [Laser Book Scanning]: https://github.com/duerig/laser-dewarp
 [LCNN]: https://github.com/zhou13/lcnn
-[Segment Anything]: https://github.com/facebookresearch/segment-anything
-[WeScan]: https://github.com/WeTransfer/WeScan
+[Pixelnetica]: https://www.pixelnetica.com/
+[PostitAPI]: https://github.com/DALAI-project/PostitAPI
 [PyThreshold]: https://github.com/manuelaguadomtz/pythreshold
+[Segment Anything]: https://github.com/facebookresearch/segment-anything
+[Table_segmentation]: https://github.com/DALAI-project/Table_segmentation
+[Train_fault_detection]: https://github.com/DALAI-project/Train_fault_detection
+[Train_writing_type]: https://github.com/DALAI-project/Train_writing_type
+[WeScan]: https://github.com/WeTransfer/WeScan
+[WritingtypeAPI]: https://github.com/DALAI-project/WritingtypeAPI
 
 
 ## Document Management
