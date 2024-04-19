@@ -1,5 +1,5 @@
 readme.md:
-	npx markdown-toc \
+	bun x markdown-toc \
 		--bullets='-' \
 		-i \
 		$@
@@ -7,4 +7,7 @@ readme.md:
 
 .PHONY: test
 test:
-	lychee readme.md
+	lychee \
+		--max-redirects 0 \
+		--require-https \
+		readme.md

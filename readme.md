@@ -52,7 +52,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Book Scanning] - Book scanner software for home-made scanner (no license).
 - [BookDrive Editor Pro] -
     Software for post-processing images of books (commercial).
-- [Bookscan] - Single-camera solution for book scanning (open source).
+- [Voussoir] - Single-camera solution for book scanning (open source).
 - [Booksorber] - Processes camera images of book pages (commercial).
 - [Decapod] - Web application frontend for image processing and capture tools.
 - [DxO Viewpoint] - Correct perspective distortions in images (commercial).
@@ -67,7 +67,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Page Improver] - Automatic image enhancing software for page scanning.
 - [Perspec] - Manually correct the perspective of images.
 - [Readiris 17] - OCR software to digitalize papers, images, or PDF files.
-- [ScanGate] - Stand-alone software for book digitization (commercial).
+- [ScanGate LWF] - Stand-alone software for book digitization (commercial).
 - [ScanTailor] -
     Interactive post-processing tool for scanned pages (open source).
 - [ScanTailor Advanced] -
@@ -77,8 +77,8 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [scanner] - Document scanner for the web built in Rust.
 
 [Book Scanning]: https://github.com/Canta/book-scanning
-[BookDrive Editor Pro]: http://atiz.com/bookdrive-editor-pro
-[Bookscan]: https://github.com/publicus/bookscan
+[BookDrive Editor Pro]: https://atiz.com/bookdrive-editor-pro/
+[Voussoir]: https://github.com/jglev/voussoir
 [Booksorber]: http://booksorber.com
 [Decapod]: https://github.com/Decapod/decapod
 [DxO Viewpoint]: https://www.dxo.com/dxo-viewpoint/
@@ -89,11 +89,11 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Page Improver]: http://4digitalbooks.com/_soft_imaget.php
 [Perspec]: https://github.com/ad-si/Perspec
 [Readiris 17]: https://iriscorporate.com/softwares/readiris-17/
-[ScanGate]: http://treventus.com/scangate.html
+[ScanGate LWF]: https://www.treventus.com/software/image-processing-automation
 [ScanTailor Advanced]: https://github.com/4lex4/scantailor-advanced
-[ScanTailor]: http://scantailor.org
+[ScanTailor]: https://scantailor.org
 [Skarynka]: https://github.com/alex73/Skarynka
-[YASW]: https://sourceforge.net/projects/yascanw
+[YASW]: https://sourceforge.net/projects/yascanw/
 [scanner]: https://github.com/101arrowz/scanner
 
 
@@ -102,8 +102,8 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Plumb-Bob] - Perspective rectifier (macOS app).
 - [Prizmo] - Turn photos into scans by adjusting perspective, cropping, etc. (macOS app).
 
-[Plumb-Bob]: http://fitplot.it/plumb-bob
-[Prizmo]: https://apps.apple.com/app/id546392952
+[Plumb-Bob]: https://fitplot.it/plumb-bob/
+[Prizmo]: https://creaceed.com/prizmo
 
 
 ### Mobile
@@ -111,27 +111,27 @@ A curated list of awesome projects to simplify and improve paper scanning.
 #### iOS
 
 - [CamScanner] - Scan any kind of document.
-- [Docr] - PDF scanner with document image dewarping.
+- [Doc OCR] - PDF scanner with document image dewarping.
+- [Doc Scan] - Turn your iPhone / iPad into a portable scanner and PDF editor.
 - [Genius Scan] - A scanner in your pocket.
 - [IRIScan] - Scan documents with your iPhone or iPad.
-- [Office Lens] -
-  Trims, enhances and makes pictures of whiteboards and docs readable.
+    Trims, enhances and makes pictures of whiteboards and docs readable.
 - [Quick Scan] - Scan, Recognize, Automate.
 - [Scanbot] - High quality scans with one tap.
 - [Scannable] - Scan contracts, receipts and business cards.
 - [Scanner Pro] - Scan paper documents into PDFs.
 - [vFlat] - Capture documents, forms, receipts, books and convert them into high-quality PDFs.
 
-[CamScanner]: https://camscanner.com
-[Docr]: https://itunes.apple.com/app/id1112445201
-[IRIScan]: http://irislink.com/EN-ROW/c1102/IRIScan-iOS---OCR-App-for-iOS.aspx
+[CamScanner]: https://www.camscanner.com/
+[Doc OCR]: https://ifunplay.com/dococr.html
+[Doc Scan]: https://ifunplay.com/docscan.html
+[Genius Scan]: https://thegrizzlylabs.com/genius-scan
+[IRIScan]: https://www.irislink.com/EN-ROW/c1102/IRIScan-iOS---OCR-App-for-iOS.aspx
 [Quick Scan]: https://www.quickscanapp.com/
 [Scanbot]: https://scanbot.io
-[Scannable]: https://evernote.com/products/scannable
-[Scanner Pro]: https://readdle.com/products/scannerpro
+[Scannable]: https://apps.apple.com/us/app/evernote-scannable/id883338188
+[Scanner Pro]: https://readdle.com/scannerpro
 [vFlat]: https://www.vflat.com/en
-[Office Lens]: https://microsoft.com/en-us/store/p/office-lens/9wzdncrfj3t8
-[Genius Scan]: https://thegrizzlylabs.com/genius-scan
 
 
 ### Android
@@ -172,22 +172,22 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Document-Dewarping with Control-Points] - Dewarping of document images using control points.
 - [Building an image processing pipeline with Python]
 
-[Dewarping pages]: http://halfbakedmaker.org/blog/366
-[Document scanner]: http://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes
-[Genetic programming in the cloud]: http://halfbakedmaker.org/blog/382
+[Dewarping pages]: https://halfbakedmaker.org/blog/366
+[Document scanner]: https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+[Genetic programming in the cloud]: https://halfbakedmaker.org/blog/382
 [keypoint]: https://keras.io/examples/vision/keypoint_detection/
-[math.stackexchange]: http://math.stackexchange.com/questions/1339924/compute-ratio-of-a-rectangle-seen-from-an-unknown-perspective
+[math.stackexchange]: https://math.stackexchange.com/questions/1339924/compute-ratio-of-a-rectangle-seen-from-an-unknown-perspective
 [Noteshrink]: https://mzucker.github.io/2016/09/20/noteshrink.html
 [Page dewarping]: https://mzucker.github.io/2016/08/15/page-dewarping.html
-[Perspective transform]: http://pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example
-[Stackoverflow]: http://stackoverflow.com/questions/1194352/proportions-of-a-perspective-deformed-rectangle
+[Perspective transform]: https://pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example/
+[Stackoverflow]: https://stackoverflow.com/questions/1194352/proportions-of-a-perspective-deformed-rectangle
 [Unpaper]: https://github.com/Flameeyes/unpaper
 [pdfsandwich]: http://www.tobias-elze.de/pdfsandwich/
 [rbgg]: https://github.com/fogleman/rbgg
 [Unprojecting text with ellipses]: https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html
 [Document-Dewarping with Control-Points]: https://github.com/gwxie/Document-Dewarping-with-Control-Points
 [Building an image processing pipeline with Python]:
-  http://pyvideo.org/pycon-us-2013/building-an-image-processing-pipeline-with-python.html
+  https://pyvideo.org/pycon-us-2013/building-an-image-processing-pipeline-with-python.html
 
 
 ## Discussions
@@ -197,7 +197,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Robust Reading Competition] - Detection and recognition challenges for text in scene images.
 - [What are the most common algorithms for adaptive thresholding?][alg-thresh]
 
-[alg-thresh]: https://dsp.stackexchange.com/q/2411/26515
+[alg-thresh]: https://dsp.stackexchange.com/questions/2411/what-are-the-most-common-algorithms-for-adaptive-thresholding
 [Robust Reading Competition]: https://rrc.cvc.uab.es
 
 
@@ -242,24 +242,22 @@ A curated list of awesome projects to simplify and improve paper scanning.
 ## Document Management
 
 - [Docspell] - Document management system for private and small business use.
-- [OpenPaper.work] - Scan and import personal documents.
 - [Hermes] - Open source document management system by HashiCorp.
 - [Mayan EDMS] - Libre document management system.
+- [OpenPaper.work] - Scan and import personal documents.
 - [Paperless NGX] - Scan, index, and archive paper documents.
 - [Papermerge] - Open source document management system for digital archives.
-- [Paperwork] - Personal document manager for Linux and Windows.
 - [Polar] - Knowledge manager for web pages, textbooks, and PDFs.
 - [TagSpaces] - Offline & open source document manager with tagging support.
 - [Teedy] - Lightweight document management system for individuals & businesses.
 
-[OpenPaper.work]: https://www.openpaper.work/en/
 [Docspell]: https://github.com/eikek/docspell
 [Hermes]: https://github.com/hashicorp-forge/hermes
 [Mayan EDMS]: https://github.com/mayan-edms/Mayan-EDMS
+[OpenPaper.work]: https://www.openpaper.work/en/
 [Paperless NGX]: https://github.com/paperless-ngx/paperless-ngx
 [Paperless]: https://github.com/the-paperless-project/paperless
 [Papermerge]: https://github.com/ciur/papermerge
-[Paperwork]: https://openpaper.work
 [Polar]: https://getpolarized.io
 [TagSpaces]: https://github.com/tagspaces/tagspaces
 [Teedy]: https://github.com/sismics/docs
@@ -271,7 +269,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
     Whiteboard scanning and image enhancement by Zhengyou Zhang , Li-Wei He
 - [Cam params] -
     Determining camera parameters from the perspective projection of a rectangle
-    by Robert M. Haralick
+    by Robert M. Haralick. (PDF)
 - [Dewarping of document images] -
     Two-Step Dewarping of Camera Document Images
     by N. Stamatopoulos, B. Gatos, I. Pratikakis & S. J. Perantonis
@@ -283,16 +281,15 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Image processing via level set curvature flow]
 - [OCR Datasets] - Collection of OCR-related datasets.
 
-[Whiteboard scanning]: http://research.microsoft.com/en-us/um/people/zhang/papers/tr03-39.pdf
-[Cam params]: http://portal.acm.org/citation.cfm?id=87146
-[Dewarping of document images]: http://users.iit.demokritos.gr/~bgat/3337a209.pdf
-[Dewarping of Document Images using Coupled-Snakes]:
-https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
+[Whiteboard scanning]: https://www.microsoft.com/en-us/research/publication/whiteboard-scanning-image-enhancement/
+[Cam params]: https://www.haralick.org/journals/determining_camera_parameters_rectangle.pdf
+[Dewarping of document images]: https://users.iit.demokritos.gr/~bgat/3337a209.pdf
+[Dewarping of Document Images using Coupled-Snakes]: https://www.semanticscholar.org/paper/Dewarping-of-Document-Images-using-Coupled-Snakes-Bukhari-Shafait/3865964b607a1ecfb0979b0fb30c5aec4a2cfcf2
 [DewarpNet]: https://github.com/cvlab-stonybrook/DewarpNet
 [Image and Depth from a Conventional Camera with a Coded Aperture]:
-  http://groups.csail.mit.edu/graphics/CodedAperture
+  https://groups.csail.mit.edu/graphics/CodedAperture/
 [iupr-dataset]:
-  https://www.dfki.de/en/web/research/projects-and-publications/publications-overview/publication/5681/
+  https://www.dfki.de/en/web/research/projects-and-publications/publication/5681/
 [Image processing via level set curvature flow]:
     https://math.berkeley.edu/~sethian/2006/Papers/sethian.imageprocessinglevelset.pnas.pdf
 [OCR Datasets]: https://github.com/xinke-wang/OCRDatasets
@@ -316,20 +313,20 @@ https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
 - [Estimation of Non-rigid Surface Deformation using Developable Surface Model]
 - [Proof-of-concept prototype for Book Flipping Scanning]
 
-[Automatic page turner machine for Book Flipping Scanning]: http://ishikawa-vision.org/vision/BFSflipper/index-e.html
-[BFS-Auto: High Speed & High Definition Book Scanner]: http://ishikawa-vision.org/vision/BFS-Auto/index-e.html
-[BFS-Solo: High Speed Book Digitization using Monocular Video]: http://ishikawa-vision.org/vision/BFS-Solo/index-e.html
-[Book Flipping Scanning]: http://ishikawa-vision.org/vision/BFS/index-e.html
-[Digitization of Deformed Documents using a High-speed Multi-camera Array]: http://ishikawa-vision.org/vision/MultiBFS/index-e.html
-[Document Digitization and its Quality Improvement using a Multi-camera Array]:  http://ishikawa-vision.org/vision/MultiBFS_boundary/index-e.html
-[Document Image Rectification using Advance Knowledge of 3D Deformation]: http://ishikawa-vision.org/vision/BFS_learn/index-e.html
-[Estimation of Non-rigid Surface Deformation using Developable Surface Model]: http://ishikawa-vision.org/vision/developable/index-e.html
-[High-accuracy rectification technique of deformed document image using Tiled Rectangle Fragments (TRFs)]: http://ishikawa-vision.org/vision/TRF/index-e.html
-[High-speed and High-definition Document Digitalization System based on Adaptive Scanning using Real-time 3D Sensing]: http://ishikawa-vision.org/vision/HybridBFS/index-e.html
-[Proof-of-concept prototype for Book Flipping Scanning]: http://ishikawa-vision.org/vision/BookFlipScan/index-e.html
-[Real-time 3D Page Tracking and Book Status Recognition]: http://ishikawa-vision.org/vision/BFSPageTracking/index-e.html
-[Reconstruction of 3D Surface and Restoration of Flat document Image from Monocular Image Sequence]: http://ishikawa-vision.org/vision/MonoBFS/index-e.html
-[Vision architecture overview]: http://ishikawa-vision.org/vision/index-e.html
+[Automatic page turner machine for Book Flipping Scanning]: https://ishikawa-vision.org/vision/BFSflipper/index-e.html
+[BFS-Auto: High Speed & High Definition Book Scanner]: https://ishikawa-vision.org/vision/BFS-Auto/index-e.html
+[BFS-Solo: High Speed Book Digitization using Monocular Video]: https://ishikawa-vision.org/vision/BFS-Solo/index-e.html
+[Book Flipping Scanning]: https://ishikawa-vision.org/vision/BFS/index-e.html
+[Digitization of Deformed Documents using a High-speed Multi-camera Array]: https://ishikawa-vision.org/vision/MultiBFS/index-e.html
+[Document Digitization and its Quality Improvement using a Multi-camera Array]:  https://ishikawa-vision.org/vision/MultiBFS_boundary/index-e.html
+[Document Image Rectification using Advance Knowledge of 3D Deformation]: https://ishikawa-vision.org/vision/BFS_learn/index-e.html
+[Estimation of Non-rigid Surface Deformation using Developable Surface Model]: https://ishikawa-vision.org/vision/developable/index-e.html
+[High-accuracy rectification technique of deformed document image using Tiled Rectangle Fragments (TRFs)]: https://ishikawa-vision.org/vision/TRF/index-e.html
+[High-speed and High-definition Document Digitalization System based on Adaptive Scanning using Real-time 3D Sensing]: https://ishikawa-vision.org/vision/HybridBFS/index-e.html
+[Proof-of-concept prototype for Book Flipping Scanning]: https://ishikawa-vision.org/vision/BookFlipScan/index-e.html
+[Real-time 3D Page Tracking and Book Status Recognition]: https://ishikawa-vision.org/vision/BFSPageTracking/index-e.html
+[Reconstruction of 3D Surface and Restoration of Flat document Image from Monocular Image Sequence]: https://ishikawa-vision.org/vision/MonoBFS/index-e.html
+[Vision architecture overview]: https://ishikawa-vision.org/vision/index-e.html
 
 
 ## Devices
@@ -339,7 +336,7 @@ https://pdfs.semanticscholar.org/3865/964b607a1ecfb0979b0fb30c5aec4a2cfcf2.pdf
 - [Linear Book Scanner] - Low-cost page-turning book scanner (open source).
 - [Portable Scanners] - Several portabal scanning devices (commercial).
 
-[Archivist]: http://diybookscanner.org/archivist
+[Archivist]: https://diybookscanner.org/archivist/
 [book2net]: https://book2net.net/en/products/
 [Linear Book Scanner]: https://linearbookscanner.org
-[Portable Scanners]: http://irislink.com/EN-ROW/c1080/IRIScan---Portable-scanners---Discover-our-range.aspx
+[Portable Scanners]: https://www.irislink.com/EN-ROW/c1080/IRIScan---Portable-scanners---Discover-our-range.aspx
