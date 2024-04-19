@@ -204,6 +204,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 ## Software Libraries
 
 - [CornerAPI] - Detect torn corners and edges in document images.
+- [doc2text] - Bulk detect text blocks and OCR scanned PDFs.
 - [Empty_training] - Train neural network to detect empty pages in document images.
 - [EmptyAPI] - Detect empty pages in document images.
 - [FaultyImageAPI] - Combines [CornerAPI], [EmptyAPI], [PostitAPI], and  [WritingtypeAPI]
@@ -222,6 +223,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [WritingtypeAPI] - Classify document based on the writing type (handwritten, typewritten).
 
 [CornerAPI]: https://github.com/DALAI-project/CornerAPI
+[doc2text]: https://github.com/jlsutherland/doc2text
 [Empty_training]: https://github.com/DALAI-project/Empty_training
 [EmptyAPI]: https://github.com/DALAI-project/EmptyAPI
 [FaultyImageAPI]: https://github.com/DALAI-project/FaultyImageAPI
