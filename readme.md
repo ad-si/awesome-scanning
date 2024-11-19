@@ -156,6 +156,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 
 ## Posts
 
+- [Awesome Text Deskew] - Collection of algorithms and Jupyter examples to deskew text.
 - [Dewarping pages]
 - [Document scanner] -
     How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes.
@@ -175,6 +176,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Document-Dewarping with Control-Points] - Dewarping of document images using control points.
 - [Building an image processing pipeline with Python]
 
+[Awesome Deskew Algorithms]: https://github.com/xiaoyao9184/awesome-text-deskew
 [Dewarping pages]: https://halfbakedmaker.org/blog/366
 [Document scanner]: https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
 [Genetic programming in the cloud]: https://halfbakedmaker.org/blog/382
