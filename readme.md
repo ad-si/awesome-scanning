@@ -144,14 +144,12 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Microsoft Lens] - Trim, enhances, and make photos of whiteboards and documents readable.
 - [Open Camera] - Extensive open source camera app.
 - [PDF-Doc-Scan] - Open source Android PDF document scanning app.
-- [Stack] - PDF scanner, document organizer, and detail finder by Google's Area 120.
 
 [Adobe Scan]: https://play.google.com/store/apps/details?id=com.adobe.scan.android
 [Google Drive]: https://support.google.com/drive/answer/3145835?co=GENIE.Platform%3DAndroid
 [Microsoft Lens]: https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
 [Open Camera]: https://opencamera.org.uk
 [PDF-Doc-Scan]: https://github.com/LittleTrickster/PDF-Doc-Scan
-[Stack]: https://play.google.com/store/apps/details?id=com.area120.paperwork
 
 
 ## Posts
@@ -176,10 +174,10 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Document-Dewarping with Control-Points] - Dewarping of document images using control points.
 - [Building an image processing pipeline with Python]
 
-[Awesome Deskew Algorithms]: https://github.com/xiaoyao9184/awesome-text-deskew
-[Dewarping pages]: https://halfbakedmaker.org/blog/366
+[Awesome Text Deskew]: https://github.com/xiaoyao9184/awesome-text-deskew
+[Dewarping pages]: https://web.archive.org/web/20210805014056/https://halfbakedmaker.org/blog/366
 [Document scanner]: https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
-[Genetic programming in the cloud]: https://halfbakedmaker.org/blog/382
+[Genetic programming in the cloud]: https://web.archive.org/web/20210805024414/http://www.halfbakedmaker.org/blog/382
 [keypoint]: https://keras.io/examples/vision/keypoint_detection/
 [math.stackexchange]: https://math.stackexchange.com/questions/1339924/compute-ratio-of-a-rectangle-seen-from-an-unknown-perspective
 [Noteshrink]: https://mzucker.github.io/2016/09/20/noteshrink.html
@@ -240,6 +238,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [PyThreshold]: https://github.com/manuelaguadomtz/pythreshold
 [Segment Anything]: https://github.com/facebookresearch/segment-anything
 [Table_segmentation]: https://github.com/DALAI-project/Table_segmentation
+[Train_document_classification]: https://github.com/DALAI-project/Train_document_classification
 [Train_fault_detection]: https://github.com/DALAI-project/Train_fault_detection
 [Train_writing_type]: https://github.com/DALAI-project/Train_writing_type
 [WeScan]: https://github.com/WeTransfer/WeScan
@@ -254,7 +253,6 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [OpenPaper.work] - Scan and import personal documents.
 - [Paperless NGX] - Scan, index, and archive paper documents.
 - [Papermerge] - Open source document management system for digital archives.
-- [Polar] - Knowledge manager for web pages, textbooks, and PDFs.
 - [TagSpaces] - Offline & open source document manager with tagging support.
 - [Teedy] - Lightweight document management system for individuals & businesses.
 
@@ -265,7 +263,6 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Paperless NGX]: https://github.com/paperless-ngx/paperless-ngx
 [Paperless]: https://github.com/the-paperless-project/paperless
 [Papermerge]: https://github.com/ciur/papermerge
-[Polar]: https://getpolarized.io
 [TagSpaces]: https://github.com/tagspaces/tagspaces
 [Teedy]: https://github.com/sismics/docs
 
