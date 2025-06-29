@@ -42,7 +42,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 
 
 [DIY Book Scanner]: https://diybookscanner.org
-[Docutain]: https://docutain.com
+[Docutain]: https://www.docutain.de/en/default
 [Eagle Doc]: https://www.eagle-doc.com
 [RoboEdit]: https://roboedit.app/
 [ScanDoc]: https://scandoc.io
@@ -90,7 +90,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [LIMB]: https://www.limbsuite.com
 [Nidaba]: https://github.com/openphilology/nidaba
 [OpenCV-Document-Scanner]: https://github.com/andrewdcampbell/OpenCV-Document-Scanner
-[Page Improver]: http://4digitalbooks.com/_soft_imaget.php
+[Page Improver]: https://4digitalbooks.com/_soft_imaget.php
 [Perspec]: https://github.com/ad-si/Perspec
 [Readiris 17]: https://iriscorporate.com/softwares/readiris-17/
 [ScanGate LWF]: https://www.treventus.com/software/image-processing-automation
@@ -339,11 +339,13 @@ A curated list of awesome projects to simplify and improve paper scanning.
 ## Devices
 
 - [Archivist] - V-shaped platner based book scanner (open source).
+- [Automated Book Scanner] - Arduino-based automatic book scanner (open source).
 - [book2net] - Book scanners for libraries and archives (commercial).
 - [Linear Book Scanner] - Low-cost page-turning book scanner (open source).
 - [Portable Scanners] - Several portabal scanning devices (commercial).
 
 [Archivist]: https://diybookscanner.org/archivist/
+[Automated Book Scanner]: https://blog.arduino.cc/2025/06/28/this-machine-automatically-scans-books-from-cover-to-cover/
 [book2net]: https://book2net.net/en/products/
 [Linear Book Scanner]: https://linearbookscanner.org
 [Portable Scanners]: https://www.irislink.com/EN-ROW/c1080/IRIScan---Portable-scanners---Discover-our-range.aspx

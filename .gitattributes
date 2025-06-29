@@ -1,2 +1,3 @@
 readme.md linguist-detectable
 makefile -linguist-detectable
+flake.nix -linguist-detectable
