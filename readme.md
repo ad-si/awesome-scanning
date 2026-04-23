@@ -212,6 +212,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Empty_training] - Train neural network to detect empty pages in document images.
 - [EmptyAPI] - Detect empty pages in document images.
 - [FaultyImageAPI] - Combines [CornerAPI], [EmptyAPI], [PostitAPI], and  [WritingtypeAPI]
+- [Hasscan] - OpenCV document scanner in Haskell.
 - [imgwarp-js] - Warp images using JavaScript.
 - [Laser Book Scanning] - Experimental methods for dewarping document images based on the use of lasers.
 - [LCNN] - End-to-End Wireframe Parsing.
@@ -232,6 +233,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Empty_training]: https://github.com/DALAI-project/Empty_training
 [EmptyAPI]: https://github.com/DALAI-project/EmptyAPI
 [FaultyImageAPI]: https://github.com/DALAI-project/FaultyImageAPI
+[Hasscan]: https://github.com/mryndzionek/hasscan
 [imgwarp-js]: https://github.com/cxcxcxcx/imgwarp-js
 [Laser Book Scanning]: https://github.com/duerig/laser-dewarp
 [LCNN]: https://github.com/zhou13/lcnn
