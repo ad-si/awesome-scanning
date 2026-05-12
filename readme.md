@@ -68,7 +68,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Nidaba] - Expandable and scalable OCR pipeline.
 - [OpenCV-Document-Scanner] -
     Interactive document scanner built with Python and OpenCV.
-- [Page Improver] - Automatic image enhancing software for page scanning.
+- [Page Improver] - Automatic image enhancing software for page scanning (commercial).
 - [Perspec] - Manually correct the perspective of images.
 - [Readiris 17] - OCR software to digitalize papers, images, or PDF files.
 - [ScanGate LWF] - Stand-alone software for book digitization (commercial).
