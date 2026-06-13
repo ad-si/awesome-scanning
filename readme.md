@@ -345,9 +345,11 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [book2net] - Book scanners for libraries and archives (commercial).
 - [Linear Book Scanner] - Low-cost page-turning book scanner (open source).
 - [Portable Scanners] - Several portabal scanning devices (commercial).
+- [Scan Station] - Raspberry Pi based desktop digitizer for notes and documents with OCR and Notion integration (open source).
 
 [Archivist]: https://diybookscanner.org/archivist/
 [Automated Book Scanner]: https://blog.arduino.cc/2025/06/28/this-machine-automatically-scans-books-from-cover-to-cover/
 [book2net]: https://book2net.net/en/products/
 [Linear Book Scanner]: https://linearbookscanner.org
 [Portable Scanners]: https://www.irislink.com/EN-ROW/c1080/IRIScan---Portable-scanners---Discover-our-range.aspx
+[Scan Station]: https://hackaday.com/2026/04/16/desktop-digitizer-makes-note-capture-a-breeze/
