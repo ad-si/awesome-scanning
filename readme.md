@@ -187,7 +187,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Page dewarping]: https://mzucker.github.io/2016/08/15/page-dewarping.html
 [Perspective transform]: https://pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example/
 [Stackoverflow]: https://stackoverflow.com/questions/1194352/proportions-of-a-perspective-deformed-rectangle
-[Unpaper]: https://github.com/Flameeyes/unpaper
+[Unpaper]: https://github.com/unpaper/unpaper
 [pdfsandwich]: http://www.tobias-elze.de/pdfsandwich/
 [rbgg]: https://github.com/fogleman/rbgg
 [Unprojecting text with ellipses]: https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html
