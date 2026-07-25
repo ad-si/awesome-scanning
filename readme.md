@@ -61,6 +61,9 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Decapod] - Web application frontend for image processing and capture tools.
 - [DxO Viewpoint] - Correct perspective distortions in images (commercial).
 - [Easy Scan] - Scanning software for book2net scanners (commercial).
+- [FlipScan] -
+    Turn a phone flip-through video, photos, or a PDF of a book into a clean,
+    proofread EPUB/PDF/Markdown using a local vision LLM (source available).
 - [LIMB] -
     Project inventory, image processing, quality control, OCR,
     document structuring and multiple format exporting
@@ -88,6 +91,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Decapod]: https://github.com/Decapod/decapod
 [DxO Viewpoint]: https://www.dxo.com/dxo-viewpoint/
 [Easy Scan]: https://book2net.net/en/2021/06/30/easy-scan/
+[FlipScan]: https://github.com/JamesDavid/FlipScan
 [LIMB]: https://www.limbsuite.com
 [Nidaba]: https://github.com/openphilology/nidaba
 [OpenCV-Document-Scanner]: https://github.com/andrewdcampbell/OpenCV-Document-Scanner
