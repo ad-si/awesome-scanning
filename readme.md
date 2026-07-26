@@ -74,8 +74,8 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [ScanGate LWF] - Stand-alone software for book digitization (commercial).
 - [ScanTailor] -
     Interactive post-processing tool for scanned pages (open source).
-- [ScanTailor Advanced] -
-    Merges features of forks, adds new features, and includes fixes.
+    - [ScanTailor Advanced] -
+        Merges features of forks, adds new features, and includes fixes.
 - [Skarynka] - Software to scan and process images to build books.
 - [YASW] - Yet Another Scan Wizard (open source).
 - [scanner] - Document scanner for the web built in Rust.
