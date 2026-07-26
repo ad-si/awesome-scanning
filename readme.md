@@ -74,6 +74,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [ScanGate LWF] - Stand-alone software for book digitization (commercial).
 - [ScanTailor] -
     Interactive post-processing tool for scanned pages (open source).
+    - [ScanTailor Universal] - latest fork of ScanTailor
     - [ScanTailor Advanced] -
         Merges features of forks, adds new features, and includes fixes.
 - [Skarynka] - Software to scan and process images to build books.
@@ -96,6 +97,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Readiris 17]: https://iriscorporate.com/softwares/readiris-17/
 [ScanGate LWF]: https://www.treventus.com/software/image-processing-automation
 [ScanTailor Advanced]: https://github.com/4lex4/scantailor-advanced
+[ScanTailor Universal]: https://github.com/trufanov-nok/scantailor-universal
 [ScanTailor]: https://scantailor.org
 [Skarynka]: https://github.com/alex73/Skarynka
 [YASW]: https://sourceforge.net/projects/yascanw/
