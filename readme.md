@@ -158,6 +158,8 @@ A curated list of awesome projects to simplify and improve paper scanning.
 
 ### Terminal
 
+- [milahu/hocr-files-template-repo](https://github.com/milahu/hocr-files-template-repo) -
+    open-source book scanning pipeline. a template repo for scanned books
 
 
 ## Posts
