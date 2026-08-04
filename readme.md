@@ -287,6 +287,9 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Dewarping of Document Images using Coupled-Snakes]
 - [DewarpNet: Single-Image Document Unwarping
     With Stacked 3D and 2D Regression Networks][DewarpNet]
+- [DocMatcher: Document Image Dewarping via
+    Structural and Textual Line Matching][DocMatcher] -
+    Dewarping by matching lines from the warped and the template domain. (PDF)
 - [Image and Depth from a Conventional Camera with a Coded Aperture]
 - [The IUPR Dataset of Camera-Captured Document Images][iupr-dataset]
 - [Image processing via level set curvature flow]
@@ -297,6 +300,8 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Dewarping of document images]: https://users.iit.demokritos.gr/~bgat/3337a209.pdf
 [Dewarping of Document Images using Coupled-Snakes]: https://www.semanticscholar.org/paper/Dewarping-of-Document-Images-using-Coupled-Snakes-Bukhari-Shafait/3865964b607a1ecfb0979b0fb30c5aec4a2cfcf2
 [DewarpNet]: https://github.com/cvlab-stonybrook/DewarpNet
+[DocMatcher]:
+  https://openaccess.thecvf.com/content/WACV2025/papers/Hertlein_DocMatcher_Document_Image_Dewarping_via_Structural_and_Textual_Line_Matching_WACV_2025_paper.pdf
 [Image and Depth from a Conventional Camera with a Coded Aperture]:
   https://groups.csail.mit.edu/graphics/CodedAperture/
 [iupr-dataset]:
