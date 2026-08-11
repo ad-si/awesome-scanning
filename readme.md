@@ -218,6 +218,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [imgwarp-js] - Warp images using JavaScript.
 - [Laser Book Scanning] - Experimental methods for dewarping document images based on the use of lasers.
 - [LCNN] - End-to-End Wireframe Parsing.
+- [light-ocr] - Fast, offline OCR library and CLI for Node.js and C++.
 - [Perspectra] - Automatically extract and perspectively correct documents from images.
 - [Pixelnetica] - Document Scanning SDK for business apps.
 - [PostitAPI] - Detect post-it/sticky notes in document images.
@@ -239,6 +240,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [imgwarp-js]: https://github.com/cxcxcxcx/imgwarp-js
 [Laser Book Scanning]: https://github.com/duerig/laser-dewarp
 [LCNN]: https://github.com/zhou13/lcnn
+[light-ocr]: https://github.com/arcships/light-ocr
 [Perspectra]: https://github.com/ad-si/Perspectra
 [Pixelnetica]: https://www.pixelnetica.com/
 [PostitAPI]: https://github.com/DALAI-project/PostitAPI
