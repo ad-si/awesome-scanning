@@ -22,6 +22,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
   - [Mobile](#mobile)
     - [iOS](#ios)
   - [Android](#android)
+  - [Terminal](#terminal)
 - [Posts](#posts)
 - [Discussions](#discussions)
 - [Software Libraries](#software-libraries)
@@ -153,6 +154,12 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Microsoft Lens]: https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
 [Open Camera]: https://opencamera.org.uk
 [PDF-Doc-Scan]: https://github.com/LittleTrickster/PDF-Doc-Scan
+
+
+### Terminal
+
+- [milahu/hocr-files-template-repo](https://github.com/milahu/hocr-files-template-repo) -
+    open-source book scanning pipeline. a template repo for scanned books
 
 
 ## Posts
