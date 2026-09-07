@@ -37,6 +37,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [DIY Book Scanner] - Community of people who build book scanners.
 - [Docutain] - SDK for document & barcode scanning and data capturing.
 - [Eagle Doc] - Invoice and receipt Recognition as a service.
+- [Lehar AI] - AI-powered creative synthesis studio for video, image restoration, and multimedia.
 - [RoboEdit] - Create ebooks from low quality scans with AI.
 - [ScanDoc] - Scan and sign documents, and convert photos into scanned PDF documents.
 
@@ -44,6 +45,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [DIY Book Scanner]: https://diybookscanner.org
 [Docutain]: https://www.docutain.de/en/default
 [Eagle Doc]: https://www.eagle-doc.com
+[Lehar AI]: https://leharai.com
 [RoboEdit]: https://roboedit.app/
 [ScanDoc]: https://scandoc.io
 
@@ -144,12 +146,14 @@ A curated list of awesome projects to simplify and improve paper scanning.
 
 - [Adobe Scan] - Scan, OCR, and edit documents (account required).
 - [Google Drive] - Use the camera to scan documents (does not support loading existing photos).
+- [Lehar AI][Lehar AI Android] - Mobile creative AI studio for video, photorealistic imagery, and multimedia.
 - [Microsoft Lens] - Trim, enhances, and make photos of whiteboards and documents readable.
 - [Open Camera] - Extensive open source camera app.
 - [PDF-Doc-Scan] - Open source Android PDF document scanning app.
 
 [Adobe Scan]: https://play.google.com/store/apps/details?id=com.adobe.scan.android
 [Google Drive]: https://support.google.com/drive/answer/3145835?co=GENIE.Platform%3DAndroid
+[Lehar AI Android]: https://play.google.com/store/apps/details?id=com.lahar.ai
 [Microsoft Lens]: https://play.google.com/store/apps/details?id=com.microsoft.office.officelens
 [Open Camera]: https://opencamera.org.uk
 [PDF-Doc-Scan]: https://github.com/LittleTrickster/PDF-Doc-Scan
