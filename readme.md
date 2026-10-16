@@ -37,6 +37,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [DIY Book Scanner] - Community of people who build book scanners.
 - [Docutain] - SDK for document & barcode scanning and data capturing.
 - [Eagle Doc] - Invoice and receipt Recognition as a service.
+- [LensUp] - Free in-browser document scanner: photo to clean, printable PDF, no upload or sign-up.
 - [RoboEdit] - Create ebooks from low quality scans with AI.
 - [ScanDoc] - Scan and sign documents, and convert photos into scanned PDF documents.
 
@@ -44,6 +45,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [DIY Book Scanner]: https://diybookscanner.org
 [Docutain]: https://www.docutain.de/en/default
 [Eagle Doc]: https://www.eagle-doc.com
+[LensUp]: https://lensup.ai/
 [RoboEdit]: https://roboedit.app/
 [ScanDoc]: https://scandoc.io
 
