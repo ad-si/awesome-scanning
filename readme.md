@@ -72,10 +72,9 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [Perspec] - Manually correct the perspective of images.
 - [Readiris 17] - OCR software to digitalize papers, images, or PDF files.
 - [ScanGate LWF] - Stand-alone software for book digitization (commercial).
-- [ScanTailor] -
-    Interactive post-processing tool for scanned pages (open source).
 - [ScanTailor Advanced] -
-    Merges features of forks, adds new features, and includes fixes.
+    Interactive post-processing tool for scanned pages
+    (splitting, deskewing, dewarping, cropping, cleanup; open source).
 - [Skarynka] - Software to scan and process images to build books.
 - [YASW] - Yet Another Scan Wizard (open source).
 - [scanner] - Document scanner for the web built in Rust.
@@ -95,8 +94,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [Perspec]: https://github.com/ad-si/Perspec
 [Readiris 17]: https://iriscorporate.com/softwares/readiris-17/
 [ScanGate LWF]: https://www.treventus.com/software/image-processing-automation
-[ScanTailor Advanced]: https://github.com/4lex4/scantailor-advanced
-[ScanTailor]: https://scantailor.org
+[ScanTailor Advanced]: https://github.com/ScanTailor-Advanced/scantailor-advanced
 [Skarynka]: https://github.com/alex73/Skarynka
 [YASW]: https://sourceforge.net/projects/yascanw/
 [scanner]: https://github.com/101arrowz/scanner
