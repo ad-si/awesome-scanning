@@ -70,6 +70,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
     Interactive document scanner built with Python and OpenCV.
 - [Page Improver] - Automatic image enhancing software for page scanning (commercial).
 - [Perspec] - Manually correct the perspective of images.
+- [ScanStraightener] - Automatically detect the page in a photo and correct its perspective and lighting (commercial).
 - [Readiris 17] - OCR software to digitalize papers, images, or PDF files.
 - [ScanGate LWF] - Stand-alone software for book digitization (commercial).
 - [ScanTailor Advanced] -
@@ -92,6 +93,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [OpenCV-Document-Scanner]: https://github.com/andrewdcampbell/OpenCV-Document-Scanner
 [Page Improver]: https://4digitalbooks.com/_soft_imaget.php
 [Perspec]: https://github.com/ad-si/Perspec
+[ScanStraightener]: https://getapps.cafe/app/scanstraightener
 [Readiris 17]: https://iriscorporate.com/softwares/readiris-17/
 [ScanGate LWF]: https://www.treventus.com/software/image-processing-automation
 [ScanTailor Advanced]: https://github.com/ScanTailor-Advanced/scantailor-advanced
