@@ -79,6 +79,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 - [YASW] - Yet Another Scan Wizard (open source).
 - [scanner] - Document scanner for the web built in Rust.
 - [document-scanner] - Document scanner built with Python and OpenCV (open source).
+- [ScanToPDF] - Turn photos of pages into searchable PDFs with on-device OCR and bind them into one file (commercial).
 
 [Book Scanning]: https://github.com/Canta/book-scanning
 [BookDrive Editor Pro]: https://atiz.com/bookdrive-editor-pro/
@@ -99,6 +100,7 @@ A curated list of awesome projects to simplify and improve paper scanning.
 [YASW]: https://sourceforge.net/projects/yascanw/
 [scanner]: https://github.com/101arrowz/scanner
 [document-scanner]: https://github.com/vipul-sharma20/document-scanner
+[ScanToPDF]: https://getapps.cafe/app/scantopdf
 
 
 #### MacOS
